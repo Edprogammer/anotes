@@ -17,3 +17,25 @@
     margin: 0px;
     padding: 0px;
 }
+#cabeca{
+    background-image: linear-gradient(to left, #23a4f9 400%, #17FDDD);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 200px;
+}
+#cabeca > h1{
+    color: white;
+    font-size: 400%;
+    font-family: 'Satisfy', sans-serif;
+    text-align: center;
+    padding-top: 50px;
+}
+iframe{
+    display: block;
+    margin: auto;
+    margin-top: 40px;
+    text-align: center;
+    width: 300px;
+    height:200px;
+    border: 1px solid black;
+}
