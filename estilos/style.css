@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
+@font-face {
+    font-family: 'Satisfy';
+    src: url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
+}
+:root{
+    --cor0: #1728FD;
+    --cor1: #145AE3;
+    --cor2: #23A4F9;
+    --cor3: #14C7E3;
+    --cor4: #17FDDD;
+    --cor5: #490DFD;
+
+    --fonte1: 'Satisfy';
+}
+*{
+    margin: 0px;
+    padding: 0px;
+}
